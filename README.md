@@ -1,5 +1,6 @@
 # AboutMe
 SHANE COLLINS
+
 EDUCATION
 Lehigh University, The College of Business, Bethlehem, PA	Graduation: May 2022
 Bachelor of Science in Business	GPA: 2.82
